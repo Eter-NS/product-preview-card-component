@@ -36,7 +36,7 @@ Screenshot desktop
 
 ### Links
 
-- [Frontend Mentor Solution](https://your-solution-url.com)
+- [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-NlMucNrDHw)
 - [Live Site](https://eter-ns.github.io/product-preview-card-component/)
 
 ## My process
